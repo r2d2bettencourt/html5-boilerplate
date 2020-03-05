@@ -2,7 +2,7 @@ archive
 node_modules
 
 #ingnore files
-/credentials.py
+dist/credentials.py
 
 #ignore folders
 text/
