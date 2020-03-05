@@ -3,7 +3,7 @@
 # Useful .gitignore templates: https://github.com/github/gitignore
 
 #ingnore files
-dist/credentials.py
+/credentials.py
 
 #ignore folders
 #text/
